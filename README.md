@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nawres Barhoumi</h1>
 <h3 align="center">A passionate Embedded System from tunisia</h3>
 
-- 🌱 I’m currently learning **QT_Creator/C++/C**
+- 🌱 I’m currently learning **QT_Creator/C++/C /Linux**
 
 - 💬 Ask me about **QT_Creator/C++/C**
 
