@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barhoumi-nawres&label=Profile%20views&color=0e75b6&style=flat" alt="barhoumi-nawres" /> </p>
 
-- 🌱 I’m currently learning **C++/C/Linux/Yocto Project /Embedded-System**
-
-- 👨‍💻 All of my projects are available at [Github And Linkedin](Github And Linkedin)
-
-- 💬 Ask me about **C++/C/Linux/Yocto/Embedded System**
+- 🌱 I’m interested in embedded Linux, bootloaders,yocto ,.....**
 
 - 📫 How to reach me **nawresbarhoumi2019@gmail.com**
 
