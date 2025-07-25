@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nawres Barhoumi</h1>
 <h3 align="center">A passionate Embedded Linux from tunisia</h3>
-<h4>I am currently an industrial computer engineering student at ENETCOM Sfax. Passionate about embedded Linux, I am actively engaged in acquiring technical and practical skills to become a recognized specialist in this constantly evolving field.</h4>
+<h4>I am currently an industrial computer engineering student at ENETCOM Sfax. Passionate about embedded Linux / YOCTO, I am actively engaged in acquiring technical and practical skills to become a recognized specialist in this constantly evolving field.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barhoumi-nawres&label=Profile%20views&color=0e75b6&style=flat" alt="barhoumi-nawres" /> </p>
 
